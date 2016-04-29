@@ -14,6 +14,8 @@ Desarrolladora de software e ingeniera de pruebas de calidad. Calificada en la m
 
 http://linkedin.com/in/isabelanguiano
 
+https://docs.google.com/document/d/1HbrBSx1usz8Gwb5bKo-eFl8_JkuU-_7r771zjRoTW0o
+
 
 ### Daniel Hans Ramírez Peralta
 
@@ -28,6 +30,8 @@ Científico de datos con experiencia en el procesamiento del lenguaje natural, a
 
 http://linkedin.com/in/iorch
 
+https://github.com/iorch
+
 
 ### Montserrat Larios de la Peña
 
@@ -35,7 +39,7 @@ Diseñadora gráfica y editorial, con experiencia en la creación de conceptos y
 
 http://linkedin.com/in/montselarios 
 
-http://montselp.dunked.com/cv
+http://montselp.dunked.com/
 
 ### Juan José Del Toro Madrueño
 
